@@ -85,10 +85,30 @@ namespace WindowsFormsApp1
         private void Button7_Click(object sender, EventArgs e)
         {
             int i = 1;
-            for (i = 1; i <=1000; i+=1)
+            for (i = 1; i <=10; i+=1)
             {
-                i++;
-                MessageBox.Show("soma é: i");
+                MessageBox.Show("soma é: " + i);
+            }
+        }
+
+        private void Button8_Click(object sender, EventArgs e)
+        {
+            Conta c = new Conta();
+            // inicializa os atributos
+            c.numero = 1;
+            c.titular = "victor";
+            c.saldo = 100;
+            // Se a conta tiver saldo suficiente, deuCerto conterá o valor true
+            // senão, ela conterá false
+            bool deuCerto = c.Saca(100.0);
+
+            if (deuCerto)
+            {
+                MessageBox.Show("Saque realizado com sucesso");
+            }
+            else
+            {
+                MessageBox.Show("Saldo Insuficiente");
             }
         }
     }
