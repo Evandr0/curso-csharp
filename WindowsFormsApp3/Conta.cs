@@ -8,24 +8,25 @@ namespace WindowsFormsApp3
 {
     class Conta
     {
-     //	numero,	titular	e	saldo	são	atributos	do	objeto
-     public int numero;
-     public string titular;
-     public double saldo = 100; //100 é o valor inicial do saldo da conta.
-     public bool Saca(double valor)
+        //	numero,	titular	e	saldo	são	atributos	do	objeto
+        public int numero;
+        public double saldo = 100; //100 é o valor inicial do saldo da conta
+        public Cliente titular;
+
+        public bool Saca(double valor)
         {
             if (this.saldo >= valor)
             {
                 this.saldo -= valor;
                 return true; //Isso só é possível pois método Saca devolve um valor bool antes do método.
             }
-             return false;
+            return false;
         }
-    public void Deposita(double valor)
+        public void Deposita(double valor)
         {
             this.saldo += valor;
         }
-    public void Transfere(double valor, Conta destino)
+        public void Transfere(double valor, Conta destino)
         {
             /*if(this.saldo >= valor)
             {
@@ -39,6 +40,6 @@ namespace WindowsFormsApp3
             }
 
         }
-       
+
     }
 }

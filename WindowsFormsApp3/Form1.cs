@@ -22,7 +22,8 @@ namespace WindowsFormsApp3
             Conta c1 = new Conta();
             c1.numero = 1;
             c1.saldo = 1000;
-            c1.titular = "Evandro Pereira Dias";
+            
+            c1.titular.nome = "Evandro Pereira Dias";
             c1.Saca(100);
             MessageBox.Show("Valor de Saldo de c1 é: " + c1.saldo  +"\nNumero de c1 é: " + c1.numero +"\nTitular de c1 é: " + c1.titular);
         }
@@ -32,7 +33,8 @@ namespace WindowsFormsApp3
             Conta c1 = new Conta();
             c1.numero = 1;
             c1.saldo = 1000;
-            c1.titular = "Evandro Pereira Dias";
+            
+            c1.titular.nome = "Evandro Pereira Dias";
             bool deuCerto = c1.Saca(100.0);
            /*if(deuCerto)
                 {
@@ -59,6 +61,20 @@ namespace WindowsFormsApp3
         {
             Conta c1 = new Conta();
             c1.Deposita(100);
+        }
+
+        private void Button4_Click(object sender, EventArgs e)
+        {
+            Conta conta1 = new Conta();
+            Cliente cliente1 = new Cliente();
+            cliente1.nome = "Victor_nome";
+            conta1.titular = cliente1;
+            conta1.numero = 1;
+            conta1.saldo = 100.0;
+            cliente1.rg = "4941902-7";
+            cliente1.cpf = "062565739-00";
+            MessageBox.Show("Saldo é: " + conta1.saldo + "\nNome do cliente " + conta1.titular.nome + "\nRG " + cliente1.rg + "CPF: " + cliente1.cpf);
+
         }
     }
 }
