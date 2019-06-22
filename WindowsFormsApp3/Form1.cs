@@ -71,9 +71,8 @@ namespace WindowsFormsApp3
             conta1.titular = cliente1;
             conta1.numero = 1;
             conta1.saldo = 100.0;
-            cliente1.rg = "4941902-7";
-            cliente1.cpf = "062565739-00";
-            MessageBox.Show("Saldo é: " + conta1.saldo + "\nNome do cliente " + conta1.titular.nome + "\nRG " + cliente1.rg + "CPF: " + cliente1.cpf);
+            cliente1.rg = "062565739-00";
+            MessageBox.Show("Saldo é: " + conta1.saldo + "\nNome do cliente " + conta1.titular.nome + "\nRG " + cliente1.rg);
 
         }
     }
