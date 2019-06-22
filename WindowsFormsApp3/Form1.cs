@@ -59,8 +59,8 @@ namespace WindowsFormsApp3
 
         private void Button3_Click(object sender, EventArgs e)
         {
-            Conta c1 = new Conta();
-            c1.Deposita(100);
+            Conta conta1 = new Conta();
+            conta1.Deposita(100);
         }
 
         private void Button4_Click(object sender, EventArgs e)
@@ -71,6 +71,7 @@ namespace WindowsFormsApp3
             conta1.titular = cliente1;
             conta1.numero = 1;
             conta1.saldo = 100.0;
+            conta1.Deposita(100);
             cliente1.rg = "062565739-00";
             MessageBox.Show("Saldo é: " + conta1.saldo + "\nNome do cliente " + conta1.titular.nome + "\nRG " + cliente1.rg);
 

@@ -18,3 +18,13 @@ C:\Users\ev047953\programas\MEUS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csp
 C:\Users\ev047953\programas\MEUS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
 C:\Users\ev047953\programas\MEUS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 C:\Users\ev047953\programas\MEUS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\git\curso-csharp\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\git\curso-csharp\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\git\curso-csharp\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\git\curso-csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\git\curso-csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\git\curso-csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\git\curso-csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\git\curso-csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\git\curso-csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\git\curso-csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
