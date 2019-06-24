@@ -19,23 +19,28 @@ namespace WindowsFormsApp3
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            Conta c1 = new Conta();
-            c1.numero = 1;
-            c1.saldo = 1000;
+            Conta conta1 = new Conta();
+            Cliente cliente1 = new Cliente();
+            cliente1.nome = "Evandro Pereira Dias";
+            conta1.titular = cliente1;
+            conta1.numero = 1;
+            conta1.saldo = 1000;
             
-            c1.titular.nome = "Evandro Pereira Dias";
-            c1.Saca(100);
-            MessageBox.Show("Valor de Saldo de c1 é: " + c1.saldo  +"\nNumero de c1 é: " + c1.numero +"\nTitular de c1 é: " + c1.titular);
+            //conta1.titular.nome = "Evandro Pereira Dias";
+            conta1.Saca(100);
+            MessageBox.Show("Valor de Saldo de conta1 é: " + conta1.saldo  +"\nNumero de conta1 é: " + conta1.numero + "\nNome do titular da conta é: " + conta1.titular.nome);
         }
 
         private void Button2_Click(object sender, EventArgs e)
         {
-            Conta c1 = new Conta();
-            c1.numero = 1;
-            c1.saldo = 1000;
+            Conta conta1 = new Conta();
+            Cliente cliente1 = new Cliente();
+            cliente1.nome = "Evandro";
+            conta1.numero = 1;
+            conta1.saldo = 1000;
             
-            c1.titular.nome = "Evandro Pereira Dias";
-            bool deuCerto = c1.Saca(100.0);
+            conta1.titular = cliente1;
+            bool deuCerto = conta1.Saca(100.0);
            /*if(deuCerto)
                 {
                     MessageBox.Show("Saque realizado com sucesso");
@@ -45,7 +50,7 @@ namespace WindowsFormsApp3
                     MessageBox.Show("Saldo insuficiente");
                 }*/
             //outra maneira de fazer
-            if(c1.Saca(100))
+            if(conta1.Saca(100))
                 {
                     MessageBox.Show("Saque realizado com sucesso");
                 }
