@@ -12,5 +12,17 @@ namespace WindowsFormsApp3
         public string cpf;
         public string rg;
         public string endereco;
+        public int idade;
+        public int maioridade = 18;
+        public bool EhMaiorDeIdade(int valor)
+        {
+            if (valor >= maioridade)
+            {
+                return true; //Isso só é possível pois método EhMaiorDeIdade devolve um valor bool antes do método.
+            }
+            return false;
+
+        }
+        
     }
 }

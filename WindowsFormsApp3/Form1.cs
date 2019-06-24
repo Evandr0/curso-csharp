@@ -81,5 +81,23 @@ namespace WindowsFormsApp3
             MessageBox.Show("Saldo é: " + conta1.saldo + "\nNome do cliente " + conta1.titular.nome + "\nRG " + cliente1.rg);
 
         }
+
+        private void Button5_Click(object sender, EventArgs e)
+        {
+            Conta conta2 = new Conta();
+            Cliente cliente2 = new Cliente();
+            conta2.numero = 2;
+            cliente2.nome = "Evandro";
+            conta2.titular = cliente2;
+            cliente2.idade = 55;
+            if (cliente2.EhMaiorDeIdade(cliente2.idade))
+            {
+                MessageBox.Show("Cliente é maior de idade");
+            }
+            else
+            {
+                MessageBox.Show("Cliente é menor de idade");
+            }
+        }
     }
 }
