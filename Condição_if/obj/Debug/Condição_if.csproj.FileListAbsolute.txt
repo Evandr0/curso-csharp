@@ -1,0 +1,10 @@
+E:\git\curso-csharp\Condição_if\obj\Debug\Condição_if.csprojAssemblyReference.cache
+E:\git\curso-csharp\Condição_if\obj\Debug\Condição_if.Form1.resources
+E:\git\curso-csharp\Condição_if\obj\Debug\Condição_if.Properties.Resources.resources
+E:\git\curso-csharp\Condição_if\obj\Debug\Condição_if.csproj.GenerateResource.cache
+E:\git\curso-csharp\Condição_if\obj\Debug\Condição_if.csproj.CoreCompileInputs.cache
+E:\git\curso-csharp\Condição_if\bin\Debug\Condição_if.exe.config
+E:\git\curso-csharp\Condição_if\bin\Debug\Condição_if.exe
+E:\git\curso-csharp\Condição_if\bin\Debug\Condição_if.pdb
+E:\git\curso-csharp\Condição_if\obj\Debug\Condição_if.exe
+E:\git\curso-csharp\Condição_if\obj\Debug\Condição_if.pdb

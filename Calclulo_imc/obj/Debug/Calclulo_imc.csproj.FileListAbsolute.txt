@@ -1,0 +1,10 @@
+E:\git\curso-csharp\Calclulo_imc\obj\Debug\Calclulo_imc.csprojAssemblyReference.cache
+E:\git\curso-csharp\Calclulo_imc\obj\Debug\Calclulo_imc.Form1.resources
+E:\git\curso-csharp\Calclulo_imc\obj\Debug\Calclulo_imc.Properties.Resources.resources
+E:\git\curso-csharp\Calclulo_imc\obj\Debug\Calclulo_imc.csproj.GenerateResource.cache
+E:\git\curso-csharp\Calclulo_imc\obj\Debug\Calclulo_imc.csproj.CoreCompileInputs.cache
+E:\git\curso-csharp\Calclulo_imc\bin\Debug\Calclulo_imc.exe.config
+E:\git\curso-csharp\Calclulo_imc\bin\Debug\Calclulo_imc.exe
+E:\git\curso-csharp\Calclulo_imc\bin\Debug\Calclulo_imc.pdb
+E:\git\curso-csharp\Calclulo_imc\obj\Debug\Calclulo_imc.exe
+E:\git\curso-csharp\Calclulo_imc\obj\Debug\Calclulo_imc.pdb

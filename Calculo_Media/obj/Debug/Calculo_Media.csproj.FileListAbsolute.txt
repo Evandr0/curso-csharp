@@ -1,0 +1,10 @@
+E:\git\curso-csharp\Calculo_Media\bin\Debug\Calculo_Media.exe.config
+E:\git\curso-csharp\Calculo_Media\bin\Debug\Calculo_Media.exe
+E:\git\curso-csharp\Calculo_Media\bin\Debug\Calculo_Media.pdb
+E:\git\curso-csharp\Calculo_Media\obj\Debug\Calculo_Media.csprojAssemblyReference.cache
+E:\git\curso-csharp\Calculo_Media\obj\Debug\Calculo_Media.Form1.resources
+E:\git\curso-csharp\Calculo_Media\obj\Debug\Calculo_Media.Properties.Resources.resources
+E:\git\curso-csharp\Calculo_Media\obj\Debug\Calculo_Media.csproj.GenerateResource.cache
+E:\git\curso-csharp\Calculo_Media\obj\Debug\Calculo_Media.csproj.CoreCompileInputs.cache
+E:\git\curso-csharp\Calculo_Media\obj\Debug\Calculo_Media.exe
+E:\git\curso-csharp\Calculo_Media\obj\Debug\Calculo_Media.pdb
