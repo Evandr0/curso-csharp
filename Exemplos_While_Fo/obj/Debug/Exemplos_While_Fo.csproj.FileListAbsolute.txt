@@ -1,0 +1,11 @@
+E:\git\curso-csharp\Exemplos_While_Fo\bin\Debug\Exemplos_While_Fo.exe.config
+E:\git\curso-csharp\Exemplos_While_Fo\bin\Debug\Exemplos_While_Fo.exe
+E:\git\curso-csharp\Exemplos_While_Fo\bin\Debug\Exemplos_While_Fo.pdb
+E:\git\curso-csharp\Exemplos_While_Fo\obj\Debug\Exemplos_While_Fo.csprojAssemblyReference.cache
+E:\git\curso-csharp\Exemplos_While_Fo\obj\Debug\Exemplos_While_Fo.Form1.resources
+E:\git\curso-csharp\Exemplos_While_Fo\obj\Debug\Exemplos_While_Fo.Properties.Resources.resources
+E:\git\curso-csharp\Exemplos_While_Fo\obj\Debug\Exemplos_While_Fo.csproj.GenerateResource.cache
+E:\git\curso-csharp\Exemplos_While_Fo\obj\Debug\Exemplos_While_Fo.csproj.CoreCompileInputs.cache
+E:\git\curso-csharp\Exemplos_While_Fo\obj\Debug\Exemplos_While_Fo.exe
+E:\git\curso-csharp\Exemplos_While_Fo\obj\Debug\Exemplos_While_Fo.pdb
+E:\git\curso-csharp\Exemplos_While_Fo\obj\Debug\Exemplos_While_Fo.Form2.resources

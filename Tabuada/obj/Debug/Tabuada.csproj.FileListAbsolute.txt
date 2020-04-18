@@ -1,0 +1,10 @@
+E:\git\curso-csharp\Tabuada\obj\Debug\Tabuada.Form1.resources
+E:\git\curso-csharp\Tabuada\obj\Debug\Tabuada.Properties.Resources.resources
+E:\git\curso-csharp\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.cache
+E:\git\curso-csharp\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+E:\git\curso-csharp\Tabuada\obj\Debug\Tabuada.csprojAssemblyReference.cache
+E:\git\curso-csharp\Tabuada\bin\Debug\Tabuada.exe.config
+E:\git\curso-csharp\Tabuada\bin\Debug\Tabuada.exe
+E:\git\curso-csharp\Tabuada\bin\Debug\Tabuada.pdb
+E:\git\curso-csharp\Tabuada\obj\Debug\Tabuada.exe
+E:\git\curso-csharp\Tabuada\obj\Debug\Tabuada.pdb

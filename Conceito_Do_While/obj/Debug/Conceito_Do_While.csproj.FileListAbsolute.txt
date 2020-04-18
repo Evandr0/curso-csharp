@@ -1,0 +1,10 @@
+E:\git\curso-csharp\Conceito_Do_While\obj\Debug\Conceito_Do_While.csprojAssemblyReference.cache
+E:\git\curso-csharp\Conceito_Do_While\obj\Debug\Conceito_Do_While.Form1.resources
+E:\git\curso-csharp\Conceito_Do_While\obj\Debug\Conceito_Do_While.Properties.Resources.resources
+E:\git\curso-csharp\Conceito_Do_While\obj\Debug\Conceito_Do_While.csproj.GenerateResource.cache
+E:\git\curso-csharp\Conceito_Do_While\obj\Debug\Conceito_Do_While.csproj.CoreCompileInputs.cache
+E:\git\curso-csharp\Conceito_Do_While\bin\Debug\Conceito_Do_While.exe.config
+E:\git\curso-csharp\Conceito_Do_While\bin\Debug\Conceito_Do_While.exe
+E:\git\curso-csharp\Conceito_Do_While\bin\Debug\Conceito_Do_While.pdb
+E:\git\curso-csharp\Conceito_Do_While\obj\Debug\Conceito_Do_While.exe
+E:\git\curso-csharp\Conceito_Do_While\obj\Debug\Conceito_Do_While.pdb
