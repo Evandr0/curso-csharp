@@ -1,0 +1,11 @@
+E:\git\curso-csharp\Splash_Screen\bin\Debug\Splash_Screen.exe.config
+E:\git\curso-csharp\Splash_Screen\bin\Debug\Splash_Screen.exe
+E:\git\curso-csharp\Splash_Screen\bin\Debug\Splash_Screen.pdb
+E:\git\curso-csharp\Splash_Screen\obj\Debug\Splash_Screen.csprojAssemblyReference.cache
+E:\git\curso-csharp\Splash_Screen\obj\Debug\Splash_Screen.AboutBox1.resources
+E:\git\curso-csharp\Splash_Screen\obj\Debug\Splash_Screen.Properties.Resources.resources
+E:\git\curso-csharp\Splash_Screen\obj\Debug\Splash_Screen.csproj.GenerateResource.cache
+E:\git\curso-csharp\Splash_Screen\obj\Debug\Splash_Screen.csproj.CoreCompileInputs.cache
+E:\git\curso-csharp\Splash_Screen\obj\Debug\Splash_Screen.exe
+E:\git\curso-csharp\Splash_Screen\obj\Debug\Splash_Screen.pdb
+E:\git\curso-csharp\Splash_Screen\obj\Debug\Splash_Screen.Form1.resources

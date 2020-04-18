@@ -1,0 +1,10 @@
+E:\git\curso-csharp\Arrays\bin\Debug\Arrays.exe.config
+E:\git\curso-csharp\Arrays\bin\Debug\Arrays.exe
+E:\git\curso-csharp\Arrays\bin\Debug\Arrays.pdb
+E:\git\curso-csharp\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+E:\git\curso-csharp\Arrays\obj\Debug\Arrays.Form1.resources
+E:\git\curso-csharp\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+E:\git\curso-csharp\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
+E:\git\curso-csharp\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+E:\git\curso-csharp\Arrays\obj\Debug\Arrays.exe
+E:\git\curso-csharp\Arrays\obj\Debug\Arrays.pdb

@@ -1,0 +1,10 @@
+E:\git\curso-csharp\Array_multi\obj\Debug\Array_multi.csprojAssemblyReference.cache
+E:\git\curso-csharp\Array_multi\obj\Debug\Array_multi.Form1.resources
+E:\git\curso-csharp\Array_multi\obj\Debug\Array_multi.Properties.Resources.resources
+E:\git\curso-csharp\Array_multi\obj\Debug\Array_multi.csproj.GenerateResource.cache
+E:\git\curso-csharp\Array_multi\obj\Debug\Array_multi.csproj.CoreCompileInputs.cache
+E:\git\curso-csharp\Array_multi\bin\Debug\Array_multi.exe.config
+E:\git\curso-csharp\Array_multi\bin\Debug\Array_multi.exe
+E:\git\curso-csharp\Array_multi\bin\Debug\Array_multi.pdb
+E:\git\curso-csharp\Array_multi\obj\Debug\Array_multi.exe
+E:\git\curso-csharp\Array_multi\obj\Debug\Array_multi.pdb
